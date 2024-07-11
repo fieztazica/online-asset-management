@@ -6,4 +6,5 @@
  
  ---
  
- 
+ [Backend Repo](https://github.com/NashTech-Rookie-Online-Asset-Management/asset-management-be)
+ [Frontend Repo](https://github.com/NashTech-Rookie-Online-Asset-Management/asset-management-fe)
