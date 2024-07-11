@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/NashTech-Rookie-Online-Asset-Management/asset-management-be
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/NashTech-Rookie-Online-Asset-Management/asset-management-fe
