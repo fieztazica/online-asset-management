@@ -4,3 +4,6 @@
 [submodule "asset-management-be"]
 	path = asset-management-be
 	url = https://github.com/NashTech-Rookie-Online-Asset-Management/asset-management-be
+[submodule "automation-testing"]
+	path = automation-testing
+	url = git@github.com:NashTech-Rookie-Online-Asset-Management/automation-testing.git
